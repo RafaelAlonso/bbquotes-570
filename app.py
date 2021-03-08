@@ -3,6 +3,6 @@ import streamlit as st
 
 "# bem vindo ao bbquotes #570"
 
-"## A bbquote de hoje é"
+"A bbquote de hoje é"
 
 st.write(get_bbquote())
